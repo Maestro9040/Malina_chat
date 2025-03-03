@@ -18,7 +18,7 @@ async def main():
     put_html("""
     <style>
         body {
-            background-image: url('https://xgm.guru/files/100/310241/izobrazhenie_2023-07-16_225900006.png'); /* Замените на URL вашего изображения */
+            background-image: url('https://xgm.guru/files/100/310241/izobrazhenie_2023-07-16_225900006.png'); 
             background-size: cover;
             background-position: center;
             background-repeat: no-repeat;
